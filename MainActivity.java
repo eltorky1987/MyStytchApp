@@ -1,16 +1,8 @@
-package com.example.yourapp;
-
-import android.os.Bundle;
-import androidx.appcompat.app.AppCompatActivity;
-import com.stytch.sdk.StytchClient;
-import com.stytch.sdk.ui.StytchUI;
-
-public class MainActivity extends AppCompatActivity {
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        
-        // هنا نقوم بفتح شاشة تسجيل الدخول
-        StytchUI.INSTANCE.start(this);
+public class MainActivity {
+    public static void main(String[] args) {
+        String devName = "Agina";
+        System.out.println("Hello World!");
+        System.out.println("Developer: " + devName);
+        System.out.println("Status: System is Online on Termux.");
     }
 }
