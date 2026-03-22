@@ -1,19 +1,20 @@
-# 📊 Agina Pro Sales System (V2.0)
-> **Advanced Sales Management for Android via Termux**
+# 🚀 AGINA SMART ACCOUNTANT v2.2
 
-## 🌟 Why this project?
-This is not just a Java program; it's a **data-driven inventory solution**. Designed for small businesses to manage their sales directly from a mobile device.
+Welcome to the **Agina Smart Accountant**, a robust Java-based sales management system designed for Termux.
 
-## 🚀 Professional Features:
-- **Admin Security:** Protected by a custom encrypted-style access key.
-- **CSV Database:** Every transaction is stored in a structured format compatible with **MS Excel**.
-- **Real-time Logging:** Automatic timestamping for every sale.
-- **Lightweight:** Runs perfectly on devices like **Realme C67** using Termux.
+## 🌟 Key Features
+* **Secure Access:** Protected by a private access key.
+* **Anti-Crash System:** Handles wrong inputs (like text instead of numbers) without crashing.
+* **Live Revenue Calculator:** Instantly calculates total earnings from stored data.
+* **Persistence:** All data is saved in `database.csv` and tracked via Git.
 
-## 🛠️ How to run:
+## 🛠️ How to Run
 1. Compile: `javac MainActivity.java`
 2. Run: `java MainActivity`
 3. Use Key: `agina@2026`
 
----
-*Developer: Mahamed Eltorky (Agina)*
+## 📈 Version History
+* **v2.1:** Added input validation and security.
+* **v2.2:** Integrated live revenue calculator and improved UI.
+
+**Developed by Agina 🦾**
