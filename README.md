@@ -27,3 +27,6 @@
 
 ## 👨‍💻 تم تطويره بواسطة
 **محمد التركي (أجينا)** [ملف تعريف جيت هاب](https://github.com/eltorky1987)
+Add HTTP alert functionality for smoke detection
+Add WiFi connectivity using ESP8266
+Add initial README and project structure
